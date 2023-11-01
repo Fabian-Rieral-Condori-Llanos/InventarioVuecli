@@ -1,0 +1,45 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "NombreArea": "Informatica",
+      "NombreEncargado": "Lola Castro Frutas",
+      "NumeroFuncionarios": 4
+    },
+    {
+      "id": 2,
+      "NombreArea": "Test",
+      "NombreEncargado": "Castro Frutas",
+      "NumeroFuncionarios": 8
+    },
+    {
+      "id": 3,
+      "NombreArea": "QUest",
+      "NombreEncargado": "Lol Castro",
+      "NumeroFuncionarios": 4
+    }
+  ],
+  "activos": [
+    {
+      "id": 1,
+      "name": "Computadora", 
+      "Marca": "Hp",
+      "Estado" : "nuevo, usado, en desuso",
+      "AreaId": 1
+    },
+    {
+      "id": 2,
+      "name": "Pantalla", 
+      "Marca": "Hp",
+      "Estado" : "nuevo, usado, en desuso",
+      "AreaId": 2
+    },
+    {
+      "id": 3,
+      "name": "Teclado", 
+      "Marca": "Hp",
+      "Estado" : "nuevo, usado, en desuso",
+      "AreaId": 3
+    }
+   ]
+}
